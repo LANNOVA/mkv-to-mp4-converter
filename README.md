@@ -22,7 +22,7 @@ Created by SRAVstudios
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-##Donate us
+## Donate us
 BTC - bc1q5kmqqynratseyh7v0n8q58rn7p5xejuemmc4px
 
 USDT(ETH) - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
